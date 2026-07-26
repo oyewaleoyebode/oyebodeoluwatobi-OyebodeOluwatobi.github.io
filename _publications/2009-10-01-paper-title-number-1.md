@@ -40,11 +40,7 @@ Nara Institute of Science and Technology, Japan, 2025.
 
 ## Conference Papers
 
-### Adaptive Speaker Verification Under Degradation: A Drift-Aware Security Framework
-
-**Oyebode Oluwatobi Oyewale, Yuzo Taenaka, and Youki Kadobayashi**
-
-2026 International Conference on Advances in Artificial Intelligence and Machine Learning (AAIML 2026).  
+### Adaptive Speaker Verification Under Degradation: A Drift-Aware Security Framework **Oyebode Oluwatobi Oyewale, Yuzo Taenaka, and Youki Kadobayashi** 2026 International Conference on Advances in Artificial Intelligence and Machine Learning (AAIML 2026).  
 Tokyo, Japan, March 20–22, 2026, pp. 117–123.
 
 [DOI](https://doi.org/10.1109/AAIML67890.2026.11498091)
