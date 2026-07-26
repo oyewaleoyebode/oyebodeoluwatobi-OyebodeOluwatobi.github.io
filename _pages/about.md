@@ -33,8 +33,8 @@ My master’s studies at NAIST were supported by the **Japan Student Services Or
 
 ## Activities/News
 
-- **[Jul. 2026]** Published *Cancellable Speaker Credentials under Template Exposure* in **IEEE Access**.
 - **[Jul. 2026]** Began investigating progressive encryption and privacy leakage in CKKS-enabled protected speaker verification.
+- **[Jul. 2026]** Published *Cancellable Speaker Credentials under Template Exposure* in **IEEE Access**.
 - **[March. 2026]** Presented *Adaptive Speaker Verification Under Degradation: A Drift-Aware Security Framework* at **AAIML 2026**, Tokyo, Japan 🇯🇵.
 - **[Oct. 2025]** Commenced Ph.D. studies in Information Science and Engineering at **NAIST** 🇯🇵.
 - **[Sept. 2025]** Completed an M.Eng. in Information Science and Engineering at **NAIST** 🇯🇵.
