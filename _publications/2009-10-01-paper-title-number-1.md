@@ -1,14 +1,21 @@
 ---
-title: "Paper Title Number 1"
+title: "Cancellable Speaker Credentials under Template Exposure"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2026-cancellable-speaker-credentials
+excerpt: "A privacy-preserving speaker-authentication framework that transforms speaker representations into revocable and unlinkable credentials while maintaining verification utility under biometric-template exposure."
+date: 2026-07-07
+venue: "IEEE Access"
+paperurl: "https://doi.org/10.1109/ACCESS.2026.3710210"
+citation: 'O. O. Oyewale, Y. Taenaka, and Y. Kadobayashi. (2026). &quot;Cancellable Speaker Credentials under Template Exposure.&quot; <i>IEEE Access</i>. doi: 10.1109/ACCESS.2026.3710210.'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+
+This paper investigates the security risks associated with storing conventional speaker representations for biometric authentication. Unlike passwords, biometric characteristics cannot easily be replaced after compromise. Therefore, the exposure of a stored speaker template can create persistent risks of impersonation, cross-system tracking, and unauthorized reuse.
+
+The study introduces a cancellable speaker-credential framework that transforms speaker representations into protected credentials before storage and verification. The framework is designed to support three important requirements: **revocability**, allowing a compromised credential to be replaced; **unlinkability**, reducing the ability to associate credentials issued for different applications; and **verification utility**, preserving the information required to authenticate legitimate speakers.
+
+The proposed system was evaluated under a template-exposure threat model to determine whether protected speaker credentials could maintain reliable verification while limiting the usefulness of compromised stored representations. The evaluation considers verification performance, credential revocation, cross-application unlinkability, and resistance to attacks involving exposed protected templates.
+
+This research contributes to the development of privacy-preserving voice-biometric systems for mobile communication, digital financial services, and identity-management applications in which biometric templates may be exposed.
+
+[View the publication](https://doi.org/10.1109/ACCESS.2026.3710210)
