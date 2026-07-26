@@ -1,7 +1,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Oyebode Oluwatobi O.| Academic & Research Portfolio"
+title                    : "Academic & Research Portfolio"
 title_separator          : "-"
 name                     : &name "Oyebode Oluwatobi Oyewale"
 description              : &description "Official personal website and research portfolio of Oyebode Oluwatobi, PhD Candidate at NAIST."
