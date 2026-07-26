@@ -9,95 +9,102 @@ url                      : "https://oyewaleoyebode.github.io"
 baseurl                  : "/oyewaleoyebode-OyebodeOluwatobi.github.io"
 repository               : "oyewaleoyebode/oyewaleoyebode-OyebodeOluwatobi.github.io"
 
-# Site Author - The following control what appears on the left sidebar
+# Site Author
 author:
-  # Biographic information
   avatar           : "profile.png"
-  name             : "Oyebode Oluwatobi Oyewale"
-  pronouns         : 
-  bio              : "PhD Candidate in Cybersecurity & Voice Biometrics"
+  name             : *name
+  pronouns         :
+  bio              : "PhD Candidate in Cybersecurity and Voice Biometrics"
   location         : "Japan"
   employer         : "Nara Institute of Science and Technology (NAIST)"
-  uri              : 
-  email            : "" 
+  uri              :
+  email            :
 
   # Academic websites
-  academia         : 
-  arxiv            : 
-  googlescholar    : "" # Add your Google Scholar profile link here if available
-  inspire-hep      : 
-  impactstory      : 
-  orcid            : "" # Add your ORCID URL here if available
-  semantic         : 
-  ssrn             : 
-  pubmed           : 
-  researchgate     : 
-  scopus           : 
-  zotero           : 
+  academia         :
+  arxiv            :
+  googlescholar    :
+  inspire-hep      :
+  impactstory      :
+  orcid            :
+  semantic         :
+  ssrn             :
+  pubmed           :
+  researchgate     :
+  scopus           :
+  zotero           :
 
   # Repositories and software development
-  bitbucket        : 
-  codepen          : 
-  dribbble         : 
+  bitbucket        :
+  codepen          :
+  dribbble         :
   github           : "oyewaleoyebode"
-  kaggle           : 
-  stackoverflow    : 
+  kaggle           :
+  stackoverflow    :
 
   # Social media
-  artstation       : 
-  bluesky          : 
-  facebook         : 
-  flickr           : 
-  foursquare       : 
-  goodreads        : 
-  google_plus      : 
-  keybase          : 
-  instagram        : 
-  lastfm           : 
-  linkedin         : 
-  mastodon         : 
-  medium           : 
-  pinterest        : 
-  soundcloud       : 
-  steam            : 
-  telegram         : 
-  tumblr           : 
-  twitter          : 
-  vine             : 
-  weibo            : 
-  wikipedia        : 
-  xing             : 
-  youtube          : 
-  zhihu            : 
+  artstation       :
+  bluesky          :
+  facebook         :
+  flickr           :
+  foursquare       :
+  goodreads        :
+  google_plus      :
+  keybase          :
+  instagram        :
+  lastfm           :
+  linkedin         :
+  mastodon         :
+  medium           :
+  pinterest        :
+  soundcloud       :
+  steam            :
+  telegram         :
+  tumblr           :
+  twitter          :
+  vine             :
+  weibo            :
+  wikipedia        :
+  xing             :
+  youtube          :
+  zhihu            :
 
-# Publication Category
+# Publication Categories
 publication_category:
   books:
-    title: 'Books'
+    title: "Books"
   manuscripts:
-    title: 'Journal Articles'    
+    title: "Journal Articles"
   conferences:
-    title: 'Conference Papers'
+    title: "Conference Papers"
 
 # Site Settings
-teaser                   : 
+teaser                   :
 breadcrumbs              : false
 words_per_minute         : 160
 future                   : true
 read_more                : "disabled"
 talkmap_link             : false
+
 comments:
   provider               : false
 
 staticman:
-  allowedFields          : ['name', 'email', 'url', 'message']
+  allowedFields         :
+    - name
+    - email
+    - url
+    - message
   branch                 : "gh-pages"
   commitMessage          : "New comment."
-  filename               : comment-{@timestamp}
+  filename               : "comment-{@timestamp}"
   format                 : "yml"
   moderation             : true
   path                   : "_data/comments/{options.slug}"
-  requiredFields         : ['name', 'email', 'message']
+  requiredFields:
+    - name
+    - email
+    - message
   transforms:
     email                : "md5"
   generatedFields:
@@ -108,9 +115,9 @@ staticman:
 
 atom_feed:
   hide                   : false
-  path                   : 
+  path                   :
 
-# SEO Related
+# SEO
 google_site_verification :
 bing_site_verification   :
 alexa_site_verification  :
@@ -118,28 +125,31 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               :
+
 facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : 
-og_description           : 
+
+og_image                 :
+og_description           : *description
 
 social:
-  type                   : Person
-  name                   : "Oyebode Oluwatobi Oyewale"
-  links: 
+  type                   : "Person"
+  name                   : *name
+  links                  : []
 
 # Analytics
 analytics:
-  provider               : "false"
+  provider               : false
 
 # Reading Files
 include:
   - .htaccess
   - _pages
   - files
+
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -167,9 +177,11 @@ exclude:
   - README
   - tmp
   - vendor
+
 keep_files:
   - .git
   - .svn
+
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
@@ -188,7 +200,7 @@ kramdown:
   footnote_nr: 1
   entity_output: as_char
   toc_levels: 1..6
-  smart_quotes: lsquo,limsup,ldquo,rdquo
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
 # Collections
@@ -206,7 +218,7 @@ collections:
     output: true
     permalink: /:collection/:path/
 
-# Defaults
+# Default Page Settings
 defaults:
   - scope:
       path: ""
@@ -218,12 +230,14 @@ defaults:
       comments: true
       share: true
       related: true
+
   - scope:
       path: ""
       type: pages
     values:
       layout: single
       author_profile: true
+
   - scope:
       path: ""
       type: teaching
@@ -232,6 +246,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
+
   - scope:
       path: ""
       type: publications
@@ -240,6 +255,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
+
   - scope:
       path: ""
       type: portfolio
@@ -247,7 +263,8 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comment: true
+      comments: true
+
   - scope:
       path: ""
       type: talks
@@ -261,9 +278,9 @@ sass:
   sass_dir: _sass
   style: compressed
 
-# Outputting
+# Output
 permalink: /:categories/:title/
-timezone: Etc/UTC
+timezone: "Asia/Tokyo"
 
 # Plugins
 plugins:
@@ -285,6 +302,7 @@ whitelist:
 category_archive:
   type: liquid
   path: /categories/
+
 tag_archive:
   type: liquid
   path: /tags/
@@ -292,4 +310,5 @@ tag_archive:
 compress_html:
   clippings: all
   ignore:
-    envs: development
+    envs:
+      - development
