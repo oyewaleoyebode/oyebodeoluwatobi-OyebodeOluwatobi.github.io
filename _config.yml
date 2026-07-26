@@ -1,13 +1,13 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Oyebode Oluwatobi Oyewale"
+title                    : "Oyebode Oluwatobi O.| Academic & Research Portfolio"
 title_separator          : "-"
 name                     : &name "Oyebode Oluwatobi Oyewale"
-description              : &description "Academic and Research Portfolio"
+description              : &description "Official personal website and research portfolio of Oyebode Oluwatobi, PhD Candidate at NAIST."
 url                      : "https://oyewaleoyebode.github.io"
-baseurl                  : "/oyewaleoyebode-OyebodeOluwatobi.github.io"
-repository               : "oyewaleoyebode/oyewaleoyebode-OyebodeOluwatobi.github.io"
+baseurl                  : "/oyebodeoluwatobi"
+repository               : "oyewaleoyebode/oyebodeoluwatobi"
 
 # Site Author
 author:
