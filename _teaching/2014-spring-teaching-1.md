@@ -157,20 +157,21 @@ Completed intensive independent study and practical laboratory work in enterpris
 
 ---
 
-## St. Jude Anglican Grammar School
+## National Youth Service Corps (NYSC) — Mandatory Public Service
 
-### IT Specialist Instructor — National Youth Service Corps
+### IT Specialist Instructor
 
 **January 2018 – February 2020**  
-Ota, Nigeria
+St. Jude Anglican Grammar School, Ota, Nigeria
 
-Combined information-technology instruction with practical support for the school’s computing environment.
+Completed Nigeria’s mandatory national service programme as an IT Specialist Instructor at St. Jude Anglican Grammar School.
 
-- Taught computer systems, networking, cybersecurity fundamentals, and responsible technology use.
-- Prepared learning materials and explained technical topics to students with different levels of computing experience.
-- Supported the maintenance and operation of the school’s IT infrastructure.
-- Assisted with technical problems affecting teaching and administrative activities.
-- Helped students develop practical digital skills and a foundational understanding of computer networks and cybersecurity.
+- Delivered instruction in computer networking, cybersecurity fundamentals, IT systems, and responsible technology use.
+- Developed students’ foundational technical knowledge and practical digital skills.
+- Supported the maintenance and day-to-day operation of the school’s IT infrastructure.
+- Assisted with technical issues affecting teaching, learning, and administrative activities.
+- Contributed to community IT education while completing the national public-service requirement.
+- Concluded the remaining post-graduation administrative and degree-clearance requirements, with the B.Eng. degree formally conferred in September 2018.
 
 ---
 
