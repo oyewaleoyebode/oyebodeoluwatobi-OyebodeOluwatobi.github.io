@@ -44,6 +44,7 @@ My master’s studies at NAIST were supported by the **Japan Student Services Or
 - **[Aug. 2025]** Published *Speaker Identification for Low-End Devices: A Secure Voice Biometric Solution for Mobile Banking* at **IEEE PCDS 2025**.
 - **[Nov. 2024]** Presented research on voice-biometric verification for banking at **IEEE APCC 2024**, Bali, Indonesia 🇮🇩.
 - **[Oct. 2023]** Commenced graduate studies at **NAIST** with support from the **JASSO Scholarship** 🇯🇵.
+  
 ---
 
 ## Interests
