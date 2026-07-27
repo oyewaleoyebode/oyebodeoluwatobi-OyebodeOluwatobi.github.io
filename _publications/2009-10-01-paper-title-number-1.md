@@ -36,6 +36,10 @@ Adaptive Speaker Verification Under Degradation: A Drift-Aware Security Framewor
 
 ## Published Research Datasets
 
- SecureVoice50: A Multi-Device, Multi-Environment Speech Dataset for Robust and Secure Speaker Verification. **Oyebode Oluwatobi Oyewale** Zenodo, 2025. [Dataset](https://doi.org/10.5281/zenodo.17184012)
+A Five-Level Mobile Speech Dataset for Evaluating Speaker Verification Under Degraded Conditions. **Oyebode Oluwatobi Oyewale** Figshare, 2026. [Dataset](https://doi.org/10.6084/m9.figshare.33094904)
 
- A Pilot Speech Corpus for Studying Device and Environmental Variability in Voice Biometrics. **Oyebode Oluwatobi Oyewale** Figshare, 2025.[Dataset](https://doi.org/10.6084/m9.figshare.30039037)
+ SecureVoice50: A Multi-Device, Multi-Environment Speech Dataset for Robust and Secure Speaker Verification. **Oyebode Oluwatobi Oyewale** Zenodo, 2025.[Dataset](https://doi.org/10.5281/zenodo.17184012)
+
+A Pilot Speech Corpus for Studying Device and Environmental Variability in Voice Biometrics. **Oyebode Oluwatobi Oyewale** Figshare, 2025.[Dataset](https://doi.org/10.6084/m9.figshare.30039037)
+
+
