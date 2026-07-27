@@ -1,36 +1,46 @@
 ---
-title: "A Research Visit to ATR in Kyoto"
-date: 2025-09-18
-permalink: /posts/2025/09/visit-to-atr-kyoto/
+title: "Supporting the International Symposium on the Origin of Life"
+date: 2025-09-16
+permalink: /posts/2025/09/origin-of-life-symposium/
 tags:
-  - ATR
-  - Robotics
-  - Telecommunications
-  - Human-Machine Interaction
-  - Research Experience
+  - Academic Service
+  - International Symposium
+  - Origin of Life
+  - Keihanna
+  - Scientific Collaboration
   - Japan
 ---
 
-Following the International Symposium on the Origin of Life at Keihanna Plaza, I had the opportunity to visit the **Advanced Telecommunications Research Institute International (ATR)** in Kyoto.
+From September 16–18, 2025, I had the privilege of serving as a **timekeeper at the International Symposium on the Origin of Life**, held at Keihanna Plaza in Kyoto, Japan.
 
-The visit offered a fascinating look at how research in telecommunications, robotics, artificial intelligence, neuroscience, and human–machine interaction is translated into experimental technologies and specialised research environments.
+The subject lies outside my primary research area, but that was precisely what made the experience valuable. It gave me an opportunity to step beyond cybersecurity and voice biometrics and observe how researchers from other disciplines approach one of humanity’s most fundamental questions:
 
-## Human–machine interaction in practice
+**How did life emerge?**
 
-One of the most memorable parts of the visit was seeing humanoid receptionist robots designed to communicate and interact with people.
+## An inherently interdisciplinary question
 
-These systems showed how speech, language, perception, robotics, and behavioural modelling can be combined to create more natural interactions between humans and machines. Seeing these technologies physically deployed made the research questions surrounding intelligent interaction feel much more concrete than simply reading about them.
+The presentations brought together perspectives from chemistry, biology, planetary science, evolution, and related areas. Each discipline approached the question differently, but no single field could provide a complete explanation on its own.
 
-## Inside the anechoic chamber
+The symposium demonstrated the importance of interdisciplinary research and international scientific collaboration. Questions of this scale require researchers to connect evidence, methods, and ideas across disciplinary boundaries.
 
-Another highlight was visiting ATR’s large anechoic chamber. The facility provides a highly controlled environment for advanced experiments by reducing unwanted reflections and external interference.
+## Contributing through academic service
 
-This was particularly interesting to me because my research involves voice biometrics, speech signals, communication conditions, and the effects of environmental variability on authentication systems. Reliable experiments depend not only on good algorithms but also on understanding and controlling the environment in which signals are collected and evaluated.
+My responsibility was to help sessions remain on schedule and support the orderly progression of presentations.
 
-## My reflection
+Timekeeping may appear to be a small supporting role, but the effective delivery of an international conference depends on many such responsibilities. Every presentation must receive its allocated time while leaving sufficient room for questions, discussion, and transitions between speakers.
 
-The visit reinforced the value of interdisciplinary research. Progress in human–machine interaction does not emerge from artificial intelligence or robotics alone. It requires contributions from communication engineering, speech processing, perception, behavioural science, and system design.
+The role also allowed me to observe different approaches to academic communication and see how researchers explain highly specialised work to an international audience.
 
-ATR provided a valuable example of how these disciplines can be brought together to build technologies that communicate and interact more naturally with people.
+## What I took away
 
-It was a memorable experience and a useful reminder that some of the most interesting research opportunities appear at the boundaries between established fields.
+The symposium gave me:
+
+- Exposure to research outside my immediate field
+- A greater appreciation of interdisciplinary scientific inquiry
+- Insight into international academic collaboration
+- Experience supporting a professional research event
+- Opportunities to encounter different scientific and cultural perspectives
+
+The experience reminded me that academic development does not come only from conducting research within one’s own specialisation. Supporting events, listening to unfamiliar ideas, and engaging with other disciplines can also shape how we understand and communicate our own work.
+
+I am grateful to have contributed to an event connecting science, philosophy, culture, and humanity’s continuing effort to understand the origins of life.
