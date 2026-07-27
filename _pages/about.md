@@ -33,17 +33,17 @@ My master’s studies at NAIST were supported by the **Japan Student Services Or
 
 ## Activities/News
 
+- **[Jul. 2026]** Released *A Five-Level Mobile Speech Dataset for Evaluating Speaker Verification Under Degraded Conditions* on **Figshare**. [Dataset](https://doi.org/10.6084/m9.figshare.33094904)
 - **[Jul. 2026]** Began investigating progressive encryption and privacy leakage in CKKS-enabled protected speaker verification.
 - **[Jul. 2026]** Published *Cancellable Speaker Credentials under Template Exposure* in **IEEE Access**.
-- **[March. 2026]** Presented *Adaptive Speaker Verification Under Degradation: A Drift-Aware Security Framework* at **AAIML 2026**, Tokyo, Japan 🇯🇵.
+- **[Mar. 2026]** Presented *Adaptive Speaker Verification Under Degradation: A Drift-Aware Security Framework* at **AAIML 2026**, Tokyo, Japan 🇯🇵.
 - **[Oct. 2025]** Commenced Ph.D. studies in Information Science and Engineering at **NAIST** 🇯🇵.
 - **[Sept. 2025]** Completed an M.Eng. in Information Science and Engineering at **NAIST** 🇯🇵.
-- **[Aug. 2025]** Published *Speaker Identification for Low-End Devices: A Secure Voice Biometric Solution for Mobile Banking* at **IEEE PCDS 2025**.
 - **[Sept. 2025]** Released the **SecureVoice50** multi-device and multi-environment speech dataset.
 - **[Sept. 2025]** Released a pilot speech corpus for studying device and environmental variability in voice biometrics.
+- **[Aug. 2025]** Published *Speaker Identification for Low-End Devices: A Secure Voice Biometric Solution for Mobile Banking* at **IEEE PCDS 2025**.
 - **[Nov. 2024]** Presented research on voice-biometric verification for banking at **IEEE APCC 2024**, Bali, Indonesia 🇮🇩.
 - **[Oct. 2023]** Commenced graduate studies at **NAIST** with support from the **JASSO Scholarship** 🇯🇵.
-
 ---
 
 ## Interests
